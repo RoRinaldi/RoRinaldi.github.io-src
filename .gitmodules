@@ -1,0 +1,3 @@
+[submodule "pelican-blog/output"]
+	path = pelican-blog/output
+	url = https://github.com/RoRinaldi/RoRinaldi.github.io.git
